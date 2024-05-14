@@ -16,6 +16,7 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  padding: 133px 30px;
 }
 
 h1,
@@ -35,4 +36,102 @@ fieldset {
 ul,
 ol {
   list-style: none;
+}
+
+img {
+  width: 100%;
+}
+
+.page {
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  gap: 30px;
+}
+.result {
+  width: 1272px;
+}
+.result__video-container {
+}
+.result__video {
+  width: 100%;
+}
+.search-form {
+  display: flex;
+  justify-content: space-between;
+}
+.search-form__fieldset {
+}
+.search-form__fieldset-title {
+}
+.search-form__label {
+}
+.search-form__label-text {
+}
+.visually-hidden {
+}
+.search-form__textfield {
+}
+.search-form__checkbox-list {
+}
+.search-form__checkbox {
+}
+.search-form__pseudo-checkbox {
+}
+.button {
+}
+.search-form__submit-button {
+}
+.content__details {
+}
+.title {
+}
+.content__accent {
+}
+.content__list {
+  height: 298px;
+  overflow-y: auto;
+}
+.preloader-template {
+}
+.preloader {
+}
+.preloader-chasing-squares {
+}
+.square {
+}
+.cards-list-item-template {
+}
+.content__list-item {
+}
+.content__card-link {
+}
+.content__video-card {
+  display: flex;
+  gap: 30px;
+}
+.content__video-card-description-container {
+  flex-basis: 200px;
+
+}
+.content__video-card-title {
+}
+.content__video-card-description {
+}
+.content__video-card-thumbnail {
+  width: 100%;
+  object-fit: contain;
+
+}
+.more-button-template {
+}
+.more-button {
+}
+.error-template {
+}
+.error {
+}
+.error__title {
 }
